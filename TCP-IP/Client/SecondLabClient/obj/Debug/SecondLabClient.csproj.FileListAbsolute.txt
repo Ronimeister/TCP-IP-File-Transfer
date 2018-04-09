@@ -1,0 +1,14 @@
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\bin\Debug\SecondLabClient.exe.config
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\bin\Debug\SecondLabClient.exe
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\bin\Debug\SecondLabClient.pdb
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.exe
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.pdb
+C:\Users\Алексей\Desktop\КСИС\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\bin\Debug\SecondLabClient.exe.config
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\bin\Debug\SecondLabClient.exe
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\bin\Debug\SecondLabClient.pdb
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.exe
+C:\Users\Алексей\Desktop\КСИС\2 лаба\TCP-IP\SecondLabClient\SecondLabClient\obj\Debug\SecondLabClient.pdb
